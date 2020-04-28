@@ -40,13 +40,7 @@ function App() {
         {/**
          * Agrego componente
          */}
-        <MiComponente />
-        <MiComponente />
-        <MiComponente />
-        <MiComponente />
-
-
-
+        <MiComponente />        
       </header>
     </div>
   );
